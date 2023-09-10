@@ -1,5 +1,7 @@
 # Solving-Multi-Flag-Maze-Using-QLearning
 
+<img src="pic.png" alt="Image Description" width="800"/>
+
 ## Table of Contents
 - [Project Description](#project-description)
 - [Concepts and Components](#concepts-and-components)
